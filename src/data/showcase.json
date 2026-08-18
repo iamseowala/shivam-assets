@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Organic Traffic Growth",
+    "slug": "tendaindia-organic-traffic-growth",
+    "client": "tendaindia.com",
+    "image": "/upload/images/tenda.png",
+    "stat": "+120%",
+    "statLabel": "Organic Clicks",
+    "description": "Google Search Console performance jump after on-page SEO and content optimization.",
+    "gallery": [],
+    "content": "<p>tendaindia.com saw significant growth in organic clicks through on-page SEO, meta tag optimization, and targeted buying-guide content.</p><h3>Challenge</h3><p>The site had thin, generic product pages with duplicate meta tags across categories, which was holding back its visibility on Google search results.</p><h3>Approach</h3><ul><li>Full keyword research to identify high-intent, low-competition search terms</li><li>Rewrote meta titles and descriptions for every key landing page</li><li>Published new buying-guide blog content targeting informational search queries</li><li>Improved internal linking between blog posts and product pages</li><li>Fixed duplicate and thin-content issues flagged during the audit</li></ul><h3>Result</h3><p>Organic clicks grew by 120%, as verified by Google Search Console data, with steady month-over-month growth in impressions as new content got indexed.</p>"
+  },
+  {
+    "id": 2,
+    "title": "Search Rankings Improvement",
+    "slug": "secureye-search-rankings-improvement",
+    "client": "secureye.com",
+    "image": "/upload/images/secureye-analytics.png",
+    "stat": "Top 10",
+    "statLabel": "Keyword Rankings",
+    "description": "Keyword ranking improvement tracked through Google Analytics.",
+    "gallery": [
+      "/upload/images/secureye.png"
+    ],
+    "content": "<p>A technical SEO audit and content strategy were implemented for secureye.com, a security products and services website.</p><h3>Challenge</h3><p>Despite having relevant products, the site was underperforming in search due to unresolved crawlability issues and weak on-page optimization.</p><h3>Approach</h3><ul><li>Ran a full technical SEO audit to uncover indexing and crawl errors</li><li>Fixed crawlability issues so key pages could be indexed properly</li><li>Optimized on-page elements — titles, headers, and content structure — around target keywords</li><li>Tracked keyword movement and traffic trends through Google Analytics and Search Console</li></ul><h3>Result</h3><p>Multiple target keywords reached Top 10 rankings, verified through Google Analytics data. Over a 3-month period, Google Search Console recorded 72.1K total clicks and 1.49M impressions, with a 4.8% CTR and an average position of 13.1.</p>"
+  },
+  {
+    "id": 3,
+    "title": "Born To Banger — Brand Identity & Web Presence",
+    "slug": "born-to-banger-brand-identity",
+    "client": "Born To Banger",
+    "image": "/upload/images/born-to-banger-logo.png",
+    "stat": "500+",
+    "statLabel": "Events Delivered",
+    "description": "Branding and digital presence work for a premium event activities and entertainment platform in Delhi NCR.",
+    "gallery": [],
+    "content": "<p>Born To Banger is a Delhi NCR-based event activities and live entertainment platform that delivers curated experiences for weddings, corporate events, birthdays, and fundraisers — from caricature art to DIY workshops and team-building activities.</p><h3>Challenge</h3><p>As a fast-growing events brand working with 100+ artists across five cities, Born To Banger needed a brand identity and digital presence sharp enough to match the energy of the events themselves.</p><h3>Approach</h3><ul><li>Worked on brand logo and visual identity — bold, high-contrast, true to the &quot;Banger&quot; name</li><li>Gave the digital presence a clean, professional look that builds trust with corporate and wedding clients alike</li><li>Kept the branding consistent across the platform so it reads as premium, not generic</li></ul><h3>Result</h3><p>The platform has successfully delivered 500+ events with a network of 100+ verified artists, expanding its reach across Delhi, Gurugram, Noida, Ghaziabad, and Faridabad, with over 1,000 happy clients to date.</p>"
+  }
+]
